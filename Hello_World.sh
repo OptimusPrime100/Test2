@@ -1,2 +1,2 @@
 echo "Hello World"
-echo "Your PWD is $(pwd)
+echo "Your PWD is $(pwd)"
